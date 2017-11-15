@@ -1,0 +1,16 @@
+{
+    "name": "MMA8452",
+    "version": "1.0.0",
+    "keywords": "MMA8452Q,MMA8452",
+    "description": "Freescale MMA8452Q（三轴加速度传感器）驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/MMA8452.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
